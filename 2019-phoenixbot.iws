@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fce129ea-994a-4ab4-ac75-cfa1f5e375e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/5.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.wpilib/wpilib_preferences.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-phoenixbot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-phoenixbot.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019-phoenixbot.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/debug/debuginfo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/debug/riopartial/2019-chassisbot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/Pathfinder-CoreJNI-2019.1.11-linuxathenadebug.jar_74caeab9f86e09a8446844f1eda34ce6/linuxathena/libpathfinder.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/Pathfinder-CoreJNI-2019.1.11-windowsx86-64.jar_8c2c061283201b47943f42b65fb5f7e3/windowsx86-64/pathfinder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/Pathfinder-JNI-2019.1.11-linuxathenadebug.jar_ab46c269e8b087e9f892a635ea8df111/linuxathena/libpathfinderjni.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/Pathfinder-JNI-2019.1.11-windowsx86-64.jar_ba2cd233ed272fbce8cf767d865168ed/windowsx86-64/pathfinderjni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/SparkMax-driver-1.1.9-linuxathenadebug.zip_b2a1809ec4113c5d12f147affc37a988/linux/athena/shared/libSparkMaxDriver.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cci-5.12.1-linuxathenadebug.zip_16d7568ecff7c302197b9b30bb92b8c4/linux/athena/shared/libCTRE_PhoenixCCI.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cci-5.12.1-windowsx86-64.zip_282cdbba8044beb9f236406f369568d7/windows/x86-64/shared/CTRE_PhoenixCCI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cscore-cpp-2019.4.1-linuxathenadebug.zip_edc06c0f4d1a96e79739850d885b692c/linux/athena/shared/libcscored.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cscore-cpp-2019.4.1-linuxathenadebug.zip_edc06c0f4d1a96e79739850d885b692c/linux/athena/shared/libcscorejni.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cscore-cpp-2019.4.1-windowsx86-64.zip_09f258a3cf9de731576d2b9c1fa05a88/windows/x86-64/shared/cscore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/cscore-cpp-2019.4.1-windowsx86-64.zip_09f258a3cf9de731576d2b9c1fa05a88/windows/x86-64/shared/cscorejni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/hal-cpp-2019.4.1-linuxathenadebug.zip_00691c549be86c0d1985658076a87dbd/linux/athena/shared/libwpiHald.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/hal-cpp-2019.4.1-linuxathenadebug.zip_00691c549be86c0d1985658076a87dbd/linux/athena/shared/libwpiHaljni.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/hal-cpp-2019.4.1-windowsx86-64.zip_5b2e3dfd03a356fef88885faa25af569/windows/x86-64/shared/wpiHal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/hal-cpp-2019.4.1-windowsx86-64.zip_5b2e3dfd03a356fef88885faa25af569/windows/x86-64/shared/wpiHaljni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-linuxathenadebug.zip_8e4fb9906836057660b5212b23afd4d4/linux/athena/shared/libntcored.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-linuxathenadebug.zip_8e4fb9906836057660b5212b23afd4d4/linux/athena/shared/libntcorejni.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-windowsx86-64.zip_de33c981a148fa8ffd8a7969372d470d/windows/x86-64/shared/ntcore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/ntcore-cpp-2019.4.1-windowsx86-64.zip_de33c981a148fa8ffd8a7969372d470d/windows/x86-64/shared/ntcorejni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_calib3dd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_calib3dd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_cored.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_cored.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_features2dd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_features2dd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_flannd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_flannd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_highguid.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_highguid.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_imgcodecsd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_imgcodecsd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_imgprocd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_imgprocd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_java344.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_java344.so.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_mld.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_mld.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_objdetectd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_objdetectd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_photod.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_photod.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_shaped.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_shaped.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_stitchingd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_stitchingd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_superresd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_superresd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videod.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videod.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videoiod.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videoiod.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videostabd.so.3.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-linuxathenadebug.zip_fb1838f89a18efba82e3c679b6ef0c3b/linux/athena/shared/libopencv_videostabd.so.3.4.debug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_calib3d344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_core344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_features2d344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_flann344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_highgui344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_imgcodecs344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_imgproc344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_java344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_ml344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_objdetect344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_photo344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_shape344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_stitching344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_superres344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_video344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_videoio344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/opencv-cpp-3.4.4-4-windowsx86-64.zip_8b328899bdab5d66c9209ca2ee4859ae/windows/x86-64/shared/opencv_videostab344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/wpiutil-cpp-2019.4.1-linuxathenadebug.zip_c2efc78f7d04dada0598f87a51cdefa1/linux/athena/shared/libwpiutild.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/expandedArchives/wpiutil-cpp-2019.4.1-windowsx86-64.zip_3517c4c77edd720a69d93fa7ac073fd1/windows/x86-64/shared/wpiutil.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/CTRE_PhoenixCCI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/cscore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/cscorejni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/ntcore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/ntcorejni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_calib3d344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_core344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_features2d344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_flann344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_highgui344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_imgcodecs344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_imgproc344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_java344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_ml344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_objdetect344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_photo344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_shape344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_stitching344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_superres344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_video344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_videoio344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/opencv_videostab344.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/pathfinder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/pathfinderjni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/wpiHal.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/wpiHaljni.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/jniExtractDir/wpiutil.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OutliersRobot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/RobotMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/Drive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/KillAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/OutliersCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/DriveTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/OutliersSubsystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnalogInputFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnglePotentiometer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AxisButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Gamepad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/HallEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Helpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/ILoggingSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/IRDistanceSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/MetricTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/OutliersProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/PDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/POV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RioLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RotarySwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendordeps/PathfinderOLD-latest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendordeps/Phoenix-latest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendordeps/REVRobotics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendordeps/navx_frc.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+    <option name="REVERSE_PATCH" value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/OutliersProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/RobotMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Version.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RioLogger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RotarySwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/KillAll.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OutliersRobot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>chassisbot</find>
+      <find>pheonixbot</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>phoenixbot</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Robot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/RobotMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnalogInputFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnglePotentiometer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AxisButton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Gamepad.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/HallEffect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Helpers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/ILoggingSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/IRDistanceSensor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/MetricTracker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/OutliersProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/PDP.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/POV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RioLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RotarySwitch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/DriveTrain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/OutliersSubsystem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/Drive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/KillAll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/OutliersCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Version.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OutliersRobot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="3180" />
+    <option name="height" value="2045" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="phoenixbot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-phoenixbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="phoenixbot" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572715856371" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harry\Documents\Robotics\2018-2019\2019-phoenixbot\src\main\java\org\frc5687\deepspace\phoenixbot\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2">
+        <option name="BuildArtifacts" enabled="false" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce129ea-994a-4ab4-ac75-cfa1f5e375e4" name="Default Changelist" comment="" />
+      <created>1572713893201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572713893201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette " order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2019-phoenixbot.iws">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-phoenixbot.ipr">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="13" column="46" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnalogInputFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AnglePotentiometer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/AxisButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Gamepad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-89">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/HallEffect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Helpers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/ILoggingSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/IRDistanceSensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/MetricTracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/PDP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/POV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/OutliersSubsystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/subsystems/DriveTrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/OutliersCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/Drive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/commands/KillAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RioLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/RobotMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/OutliersProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/RotarySwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/utils/Version.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="30" lean-forward="true" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/frc5687/deepspace/phoenixbot/OutliersRobot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
